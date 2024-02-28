@@ -1,0 +1,6932 @@
+Thu Dec 14 15:07:43 2023
+ log::The function:first is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first is strat.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first has added a doctor.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first has added a doctor.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first has added a doctor.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first has added a doctor.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first has added a doctor.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first has added a doctor.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first has added a doctor.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first has added a doctor.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first has added a doctor.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first has added a doctor.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first has added a doctor.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first has added a doctor.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:doctor::add is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first has added a doctor.
+Thu Dec 14 15:07:43 2023
+ log::The function:doc_first is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:sicker_first is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:sicker_first is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:root_first is start.
+Thu Dec 14 15:07:43 2023
+ log::The function:root_first is finish.
+Thu Dec 14 15:07:43 2023
+ log::The function:first is finish.
+Thu Dec 14 15:07:46 2023
+ log::The function:sicker_menu is start.
+Thu Dec 14 15:07:47 2023
+ log::The function:dengji is start.
+Thu Dec 14 15:07:58 2023
+ log::The function:sicker::add is start.
+Thu Dec 14 15:07:58 2023
+ log::The function:sicker::add is finish.
+Thu Dec 14 15:07:58 2023
+ log::The function:sicker_add is start.
+Thu Dec 14 15:07:58 2023
+ log::The function:sicker_add is finish.
+Thu Dec 14 15:07:58 2023
+ log::The function:dengji is finish.
+Thu Dec 14 15:07:58 2023
+ log::The function:sicker_menu is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:guahao is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:guahao_menu is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:view_doctor is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is finish.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is finish.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is finish.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is finish.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is finish.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is finish.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is finish.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is finish.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is finish.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is finish.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is start.
+Thu Dec 14 15:08:00 2023
+ log::The function:doctor::view is finish.
+Thu Dec 14 15:08:00 2023
+ log::The function:view_doctor is finish.
+Thu Dec 14 15:08:00 2023
+ log::The function:guahao_menu is start.
+Thu Dec 14 15:08:19 2023
+ log::The function:doctor::view is start.
+Thu Dec 14 15:08:19 2023
+ log::The function:doctor::view is finish.
+Thu Dec 14 15:08:20 2023
+ log::The function:price(doctor.h) is start.
+Thu Dec 14 15:08:26 2023
+ log::The function:price(doctor.h) is finish.
+Thu Dec 14 15:08:26 2023
+ log::The function:guahao is finish.
+Thu Dec 14 15:08:27 2023
+ log::The function:sicker_menu is start.
+Thu Dec 14 15:08:28 2023
+ log::The function:view_time is start.
+Thu Dec 14 15:08:28 2023
+ log::The function:view_time is finish.
+Thu Dec 14 15:08:29 2023
+ log::The function:sicker_menu is start.
+Thu Dec 14 15:08:33 2023
+ log::The function:doc_menu is start.
+Thu Dec 14 15:08:35 2023
+ log::The function:doc_menu is finish.
+Thu Dec 14 15:08:35 2023
+ log::The function:sicker_menu is finish.
+Thu Dec 14 15:08:35 2023
+ log::The function:sicker_menu is finish.
+Thu Dec 14 15:08:35 2023
+ log::The function:sicker_menu is finish.
+Thu Dec 14 15:08:35 2023
+ log::The function:sicker_menu is finish.
+Thu Dec 14 15:23:15 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:23:15 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:23:54 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:25:25 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:25:27 2023
+ log::The function:doc_menu is start.
+
+Thu Dec 14 15:25:28 2023
+ log::The function:view_time is start.
+
+Thu Dec 14 15:25:28 2023
+ log::The function:view_time is finish.
+
+Thu Dec 14 15:25:29 2023
+ log::The function:doc_menu is start.
+
+Thu Dec 14 15:25:31 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:25:32 2023
+ log::The function:dengji is start.
+
+Thu Dec 14 15:25:39 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:25:39 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:25:39 2023
+ log::The function:sicker_add is start.
+
+Thu Dec 14 15:25:39 2023
+ log::The function:sicker_add is finish.
+
+Thu Dec 14 15:25:39 2023
+ log::The function:dengji is finish.
+
+Thu Dec 14 15:25:39 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:guahao is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:view_doctor is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:view_doctor is finish.
+
+Thu Dec 14 15:25:41 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:25:42 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:25:42 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:25:45 2023
+ log::The function:price(doctor.h) is start.
+
+Thu Dec 14 15:25:48 2023
+ log::The function:price(doctor.h) is finish.
+
+Thu Dec 14 15:25:48 2023
+ log::The function:guahao is finish.
+
+Thu Dec 14 15:25:49 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:25:50 2023
+ log::The function:view_time is start.
+
+Thu Dec 14 15:25:50 2023
+ log::The function:view_time is finish.
+
+Thu Dec 14 15:25:51 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:25:55 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:25:57 2023
+ log::The function:view_sicker is start.
+
+Thu Dec 14 15:25:57 2023
+ log::The function:view_sicker is end.
+
+Thu Dec 14 15:25:58 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:26:00 2023
+ log::The function:view_sicker is start.
+
+Thu Dec 14 15:26:00 2023
+ log::The function:view_sicker is end.
+
+Thu Dec 14 15:26:05 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:view_doctor is start.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:26:06 2023
+ log::The function:view_doctor is finish.
+
+Thu Dec 14 15:26:07 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:26:09 2023
+ log::The function:view_doctor_guahao_num is start.
+
+Thu Dec 14 15:26:09 2023
+ log::The function:view_doctor_guahao_num is finish.
+
+Thu Dec 14 15:26:11 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:26:14 2023
+ log::The function:change_root_password is start.
+
+Thu Dec 14 15:26:21 2023
+ log::The function:change_root_password is finish.
+
+Thu Dec 14 15:26:22 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:26:24 2023
+ log::The function:view_sicker is start.
+
+Thu Dec 14 15:26:24 2023
+ log::The function:view_sicker is end.
+
+Thu Dec 14 15:26:25 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:26:26 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:26:26 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:26:26 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:26:26 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:26:26 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:26:26 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:26:26 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:26:26 2023
+ log::The function:sicker_menu is finish.
+
+Thu Dec 14 15:26:26 2023
+ log::The function:sicker_menu is finish.
+
+Thu Dec 14 15:26:26 2023
+ log::The function:sicker_menu is finish.
+
+Thu Dec 14 15:26:26 2023
+ log::The function:sicker_menu is finish.
+
+Thu Dec 14 15:26:26 2023
+ log::The function:doc_menu is finish.
+
+Thu Dec 14 15:26:26 2023
+ log::The function:doc_menu is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:28:49 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:28:53 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:28:53 2023
+ log::The function:guahao is start.
+
+Thu Dec 14 15:28:53 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:28:53 2023
+ log::The function:view_doctor is start.
+
+Thu Dec 14 15:28:53 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:28:53 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:view_doctor is finish.
+
+Thu Dec 14 15:28:54 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:29:42 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:guahao is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:view_doctor is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:view_doctor is finish.
+
+Thu Dec 14 15:29:44 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:29:52 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:29:56 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:29:58 2023
+ log::The function:view_sicker is start.
+
+Thu Dec 14 15:29:58 2023
+ log::The function:view_sicker is end.
+
+Thu Dec 14 15:29:59 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:view_doctor is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:30:00 2023
+ log::The function:view_doctor is finish.
+
+Thu Dec 14 15:30:01 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:30:02 2023
+ log::The function:view_doctor_guahao_num is start.
+
+Thu Dec 14 15:30:02 2023
+ log::The function:view_doctor_guahao_num is finish.
+
+Thu Dec 14 15:30:05 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:30:06 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:30:06 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:30:06 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:30:06 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:30:42 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:30:45 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:30:47 2023
+ log::The function:view_doctor_guahao_num is start.
+
+Thu Dec 14 15:30:47 2023
+ log::The function:view_doctor_guahao_num is finish.
+
+Thu Dec 14 15:30:50 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:30:52 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:30:52 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:31:32 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:31:36 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:31:39 2023
+ log::The function:view_doctor_guahao_num is start.
+
+Thu Dec 14 15:31:39 2023
+ log::The function:view_doctor_guahao_num is finish.
+
+Thu Dec 14 15:31:42 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:32:44 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:33:38 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:33:39 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:guahao is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:view_doctor is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:view_doctor is finish.
+
+Thu Dec 14 15:33:40 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:34:00 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:34:01 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:guahao is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:view_doctor is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:view_doctor is finish.
+
+Thu Dec 14 15:34:02 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:34:11 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:34:14 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:34:16 2023
+ log::The function:view_doctor_guahao_num is start.
+
+Thu Dec 14 15:34:16 2023
+ log::The function:view_doctor_guahao_num is finish.
+
+Thu Dec 14 15:34:17 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:34:19 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:34:19 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The exe_application is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:36:18 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:36:19 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The exe_application is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:36:34 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:36:38 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:36:40 2023
+ log::The function:view_sicker is start.
+
+Thu Dec 14 15:36:40 2023
+ log::The function:view_sicker is end.
+
+Thu Dec 14 15:36:41 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The exe_application is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:42:42 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The exe_application is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:42:49 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:42:51 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:guahao is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:view_doctor is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:view_doctor is finish.
+
+Thu Dec 14 15:43:08 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The exe_application is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:43:23 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:43:25 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:43:33 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:43:34 2023
+ log::The function:dengji is start.
+
+Thu Dec 14 15:43:43 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:43:43 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:43:43 2023
+ log::The function:sicker_add is start.
+
+Thu Dec 14 15:43:43 2023
+ log::The function:sicker_add is finish.
+
+Thu Dec 14 15:43:43 2023
+ log::The function:dengji is finish.
+
+Thu Dec 14 15:43:44 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:43:50 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The exe_application is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:46:03 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:46:04 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:guahao is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:view_doctor is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:view_doctor is finish.
+
+Thu Dec 14 15:46:07 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The exe_application is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:46:11 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:46:13 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:46:18 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:46:19 2023
+ log::The function:dengji is start.
+
+Thu Dec 14 15:46:23 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:46:23 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:46:23 2023
+ log::The function:sicker_add is start.
+
+Thu Dec 14 15:46:23 2023
+ log::The function:sicker_add is finish.
+
+Thu Dec 14 15:46:23 2023
+ log::The function:dengji is finish.
+
+Thu Dec 14 15:46:24 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:guahao is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:view_doctor is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:view_doctor is finish.
+
+Thu Dec 14 15:46:27 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:46:35 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:35 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:36 2023
+ log::The function:price(doctor.h) is start.
+
+Thu Dec 14 15:46:41 2023
+ log::The function:price(doctor.h) is finish.
+
+Thu Dec 14 15:46:41 2023
+ log::The function:guahao is finish.
+
+Thu Dec 14 15:46:42 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:guahao is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:view_doctor is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:view_doctor is finish.
+
+Thu Dec 14 15:46:50 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 15:46:52 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 15:46:52 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 15:46:53 2023
+ log::The function:price(doctor.h) is start.
+
+Thu Dec 14 15:46:57 2023
+ log::The function:price(doctor.h) is finish.
+
+Thu Dec 14 15:46:57 2023
+ log::The function:guahao is finish.
+
+Thu Dec 14 15:47:01 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:47:03 2023
+ log::The function:sicker_menu is finish.
+
+Thu Dec 14 15:47:03 2023
+ log::The function:sicker_menu is finish.
+
+Thu Dec 14 15:47:03 2023
+ log::The function:sicker_menu is finish.
+
+Thu Dec 14 15:47:03 2023
+ log::The function:sicker_menu is finish.
+
+Thu Dec 14 15:47:03 2023
+ log::The function:sicker_menu is finish.
+
+Thu Dec 14 15:47:03 2023
+ log::The exe_application is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The exe_application is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:51:35 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:51:36 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:51:41 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:51:43 2023
+ log::The function:dengji is start.
+
+Thu Dec 14 15:51:47 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:51:47 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:51:47 2023
+ log::The function:sicker_add is start.
+
+Thu Dec 14 15:51:47 2023
+ log::The function:sicker_add is finish.
+
+Thu Dec 14 15:51:47 2023
+ log::The function:dengji is finish.
+
+Thu Dec 14 15:51:48 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:52:03 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:52:06 2023
+ log::The function:view_sicker is start.
+
+Thu Dec 14 15:52:06 2023
+ log::The function:view_sicker is end.
+
+Thu Dec 14 15:52:07 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The exe_application is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:52:40 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:52:46 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:52:47 2023
+ log::The function:view_sicker is start.
+
+Thu Dec 14 15:52:47 2023
+ log::The function:sicker::view is start.
+
+Thu Dec 14 15:52:47 2023
+ log::The function:sicker::view is finish.
+
+Thu Dec 14 15:52:47 2023
+ log::The function:view_sicker is end.
+
+Thu Dec 14 15:52:48 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:52:49 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:52:49 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:52:49 2023
+ log::The exe_application is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The exe_application is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:53:50 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:53:51 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 15:53:52 2023
+ log::The function:dengji is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The exe_application is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:55:00 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The exe_application is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:55:16 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The exe_application is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:first is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 15:55:50 2023
+ log::The function:first is finish.
+
+Thu Dec 14 15:55:58 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:55:59 2023
+ log::The function:view_sicker is start.
+
+Thu Dec 14 15:55:59 2023
+ log::The function:sicker::view is start.
+
+Thu Dec 14 15:55:59 2023
+ log::The function:sicker::view is finish.
+
+Thu Dec 14 15:55:59 2023
+ log::The function:sicker::view is start.
+
+Thu Dec 14 15:55:59 2023
+ log::The function:sicker::view is finish.
+
+Thu Dec 14 15:55:59 2023
+ log::The function:view_sicker is end.
+
+Thu Dec 14 15:56:02 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 15:56:05 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:56:05 2023
+ log::The function:root_menu is finish.
+
+Thu Dec 14 15:56:05 2023
+ log::The exe_application is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The exe_application is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:first is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 16:10:07 2023
+ log::The function:first is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The exe_application is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:first is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 16:10:30 2023
+ log::The function:first is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The exe_application is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:first is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 16:10:41 2023
+ log::The function:first is finish.
+
+Thu Dec 14 16:10:43 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:guahao is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:view_doctor is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is start.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:doctor::view is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:view_doctor is finish.
+
+Thu Dec 14 16:10:51 2023
+ log::The function:guahao_menu is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The exe_application is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:first is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 16:10:55 2023
+ log::The function:first is finish.
+
+Thu Dec 14 16:10:56 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 16:10:59 2023
+ log::The function:dengji is start.
+
+Thu Dec 14 16:11:08 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:11:08 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:11:08 2023
+ log::The function:sicker_add is start.
+
+Thu Dec 14 16:11:08 2023
+ log::The function:sicker_add is finish.
+
+Thu Dec 14 16:11:08 2023
+ log::The function:dengji is finish.
+
+Thu Dec 14 16:11:09 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 16:11:10 2023
+ log::The function:dengji is start.
+
+Thu Dec 14 16:11:16 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:11:16 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:11:16 2023
+ log::The function:sicker_add is start.
+
+Thu Dec 14 16:11:16 2023
+ log::The function:sicker_add is finish.
+
+Thu Dec 14 16:11:16 2023
+ log::The function:dengji is finish.
+
+Thu Dec 14 16:11:17 2023
+ log::The function:sicker_menu is start.
+
+Thu Dec 14 16:11:21 2023
+ log::The function:root_menu is start.
+
+Thu Dec 14 16:11:22 2023
+ log::The function:view_sicker is start.
+
+Thu Dec 14 16:11:22 2023
+ log::The function:sicker::view is start.
+
+Thu Dec 14 16:11:22 2023
+ log::The function:sicker::view is finish.
+
+Thu Dec 14 16:11:22 2023
+ log::The function:sicker::view is start.
+
+Thu Dec 14 16:11:22 2023
+ log::The function:sicker::view is finish.
+
+Thu Dec 14 16:11:22 2023
+ log::The function:sicker::view is start.
+
+Thu Dec 14 16:11:22 2023
+ log::The function:sicker::view is finish.
+
+Thu Dec 14 16:11:22 2023
+ log::The function:sicker::view is start.
+
+Thu Dec 14 16:11:22 2023
+ log::The function:sicker::view is finish.
+
+Thu Dec 14 16:11:22 2023
+ log::The function:view_sicker is end.
+
+Thu Dec 14 16:13:08 2023
+ log::The exe_application is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:first is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 16:13:08 2023
+ log::The function:first is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The exe_application is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:first is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 16:14:10 2023
+ log::The function:first is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The exe_application is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:first is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 16:50:05 2023
+ log::The function:first is finish.
+
+Thu Dec 14 16:50:09 2023
+ log::The function:doc_menu is start.
+
+Thu Dec 14 16:50:10 2023
+ log::The function:view_time is start.
+
+Thu Dec 14 16:50:10 2023
+ log::The function:view_time is finish.
+
+Thu Dec 14 16:50:11 2023
+ log::The function:doc_menu is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The exe_application is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:first is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first is strat.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doctor::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first has added a doctor.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:doc_first is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:sicker_first is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:sicker::add is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:sicker::add is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::b::The function:sicker_first has added a sicker.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:sicker_first is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:root_first is start.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:root_first is finish.
+
+Thu Dec 14 17:00:12 2023
+ log::The function:first is finish.
+
+Thu Dec 14 17:00:16 2023
+ log::The function:root_menu is start.
+
